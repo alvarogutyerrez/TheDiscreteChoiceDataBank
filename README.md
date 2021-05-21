@@ -60,3 +60,6 @@ Below you might find several discrete choice data sets from diverse fields. If y
 - [Apollo (R)](http://www.apollochoicemodelling.com/)         
 
 
+### Acknowledgment
+
+I acknowledge [José Ignacio Hernández](https://github.com/ighdez) from TU Delft, who encouraged me to upload the databank into a Github format, instead of the slopy excel sheet that it was at the beginning. 
