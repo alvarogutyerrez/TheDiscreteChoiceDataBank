@@ -3,7 +3,7 @@
 
 
 
-Below you might find several discrete choice data sets from diverse fields. If you want to contribute to the list with your data or another publicly available one, please send me an email at alvaro.gutierrezvargas "at" kuleuven.be, and I will be more than happy to add it to the list.
+Below you might find several discrete choice data sets from diverse fields. If you want to contribute to the list with your data or another publicly available one, please send me an email at alvaro.gutierrezvargas"at"kuleuven.be, and I will be more than happy to add it to the list.
 
 
 ### *DataBank*
