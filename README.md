@@ -57,6 +57,7 @@ Below you might find several discrete choice data sets from diverse fields. If y
 ### *Discrete Choice Software* 
 
 - [BIOGEME (Python)](https://biogeme.epfl.ch/index.html)         
+- [Pylogit (Python)](https://github.com/timothyb0912/pylogit)
 - [Apollo (R)](http://www.apollochoicemodelling.com/)         
 
 
