@@ -49,7 +49,7 @@ Below you might find several discrete choice data sets from diverse fields. If y
 
 
 
-### *More Discrete Choice Data?*
+### *Do you want more Discrete Choice Data?*
 
 - [BIOGEME Data Bank](https://biogeme.epfl.ch/data.html)         
 - [William Greene's website ](http://people.stern.nyu.edu/wgreene/Microeconometrics-GCEP.htm)
