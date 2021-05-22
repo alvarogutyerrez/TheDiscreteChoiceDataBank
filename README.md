@@ -72,7 +72,5 @@ Consider to share it with a friend :)!
 
 
 
-[//]: # ([![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/alvarogutyerrez.svg?style=social&label=%20%40alvarogutyerrez)](https://twitter.com/alvarogutyerrez))
- 
 
 
