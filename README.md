@@ -62,9 +62,6 @@ Below you might find several discrete choice data sets from diverse fields. If y
 - [lclogit2 (Stata)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484429)
 - [randregret (Stata)](https://github.com/alvarogutyerrez/randregret)
 
-### Acknowledgment
-
-I thank [José Ignacio Hernández](https://github.com/ighdez) from TU Delft, who encouraged me to upload the databank into a Github instead of the sloppy excel sheet that it was at the beginning. 
 
 
 ### Interesting, right? 
@@ -72,3 +69,8 @@ I thank [José Ignacio Hernández](https://github.com/ighdez) from TU Delft, who
 Consider to [share it](https://twitter.com/alvarogutyerrez/status/1395795035791183874) with a friend :)!
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Here&#39;s a collection of publicly available <a href="https://twitter.com/hashtag/DiscreteChoice?src=hash&amp;ref_src=twsrc%5Etfw">#DiscreteChoice</a> data (+ their articles) ready for you💻!<br><br>Please feel free to tag/share with your favorite Choice-Modeler(s) that might find this useful😊<a href="https://twitter.com/hashtag/EconTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#EconTwitter</a> <a href="https://twitter.com/hashtag/StatsTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#StatsTwitter</a> <a href="https://twitter.com/hashtag/MarketingTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#MarketingTwitter</a> <a href="https://twitter.com/hashtag/EpiTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#EpiTwitter</a> <a href="https://t.co/ZGWTGhSQMd">https://t.co/ZGWTGhSQMd</a></p>&mdash; Álvaro A. Gutiérrez-Vargas (@alvarogutyerrez) <a href="https://twitter.com/alvarogutyerrez/status/1395795035791183874?ref_src=twsrc%5Etfw">May 21, 2021</a></blockquote> 
+
+### Acknowledgment
+
+I thank [José Ignacio Hernández](https://github.com/ighdez) from TU Delft, who encouraged me to upload the databank into a Github instead of the sloppy excel sheet that it was at the beginning. 
+
