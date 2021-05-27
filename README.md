@@ -57,6 +57,9 @@ Below you might find several discrete choice data sets from diverse fields. If y
 - [BIOGEME (Python)](https://biogeme.epfl.ch/index.html)         
 - [Pylogit (Python)](https://github.com/timothyb0912/pylogit)
 - [Apollo (R)](http://www.apollochoicemodelling.com/)         
+
+- [mixlogit (Stata)](https://journals.sagepub.com/doi/10.1177/1536867X0700700306)
+- [lclogit2 (Stata)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484429)
 - [randregret (Stata)](https://github.com/alvarogutyerrez/randregret)
 
 ### Acknowledgment
