@@ -54,13 +54,17 @@ Below you might find several discrete choice data sets from diverse fields. If y
 
 ### *Discrete Choice Software* 
 
+_General Software_ 
+
 - [BIOGEME (Python)](https://biogeme.epfl.ch/index.html)         
 - [Pylogit (Python)](https://github.com/timothyb0912/pylogit)
 - [Apollo (R)](http://www.apollochoicemodelling.com/)         
 
-- [mixlogit (Stata)](https://journals.sagepub.com/doi/10.1177/1536867X0700700306)
-- [lclogit2 (Stata)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484429)
-- [randregret (Stata)](https://github.com/alvarogutyerrez/randregret)
+_Specific Stata commands_ 
+
+- Mixed Logit Models [mixlogit](https://journals.sagepub.com/doi/10.1177/1536867X0700700306)
+- Latent Class Models  [lclogit](https://journals.sagepub.com/doi/pdf/10.1177/1536867X1301300312), [lclogit2](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484429)
+- Random Regret Minimization Models [randregret](https://github.com/alvarogutyerrez/randregret)
 
 
 
