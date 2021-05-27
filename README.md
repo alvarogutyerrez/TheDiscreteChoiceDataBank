@@ -62,9 +62,9 @@ _General Software_
 
 _Specific Stata commands_ 
 
-- Mixed Logit Models [mixlogit](https://journals.sagepub.com/doi/10.1177/1536867X0700700306)
-- Latent Class Models  [lclogit](https://journals.sagepub.com/doi/pdf/10.1177/1536867X1301300312), [lclogit2](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484429)
-- Random Regret Minimization Models [randregret](https://github.com/alvarogutyerrez/randregret)
+- Mixed Logit Models [(mixlogit)](https://journals.sagepub.com/doi/10.1177/1536867X0700700306)
+- Latent Class Models  [(lclogit](https://journals.sagepub.com/doi/pdf/10.1177/1536867X1301300312), [lclogit2)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484429)
+- Random Regret Minimization Models [(randregret)](https://github.com/alvarogutyerrez/randregret)
 
 
 
