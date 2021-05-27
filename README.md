@@ -52,15 +52,15 @@ Below you might find several discrete choice data sets from diverse fields. If y
 - [BIOGEME Data Bank](https://biogeme.epfl.ch/data.html)         
 - [William Greene's website ](http://people.stern.nyu.edu/wgreene/Microeconometrics-GCEP.htm)
 
-### *Discrete Choice Software* 
+### Discrete Choice Software 
 
-_General Software_ 
+***General Software***
 
 - [BIOGEME (Python)](https://biogeme.epfl.ch/index.html)         
 - [Pylogit (Python)](https://github.com/timothyb0912/pylogit)
 - [Apollo (R)](http://www.apollochoicemodelling.com/)         
 
-_Specific Stata commands_ 
+***Specific Stata commands***
 
 - Mixed Logit Models [(mixlogit)](https://journals.sagepub.com/doi/10.1177/1536867X0700700306)
 - Latent Class Models  [(lclogit](https://journals.sagepub.com/doi/pdf/10.1177/1536867X1301300312), [lclogit2)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484429)
