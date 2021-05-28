@@ -54,19 +54,22 @@ Below you might find several discrete choice data sets from diverse fields. If y
 
 ### Discrete Choice Software 
 
-***General Software***
+***General Estimation Software***
 
 - [BIOGEME (Python)](https://biogeme.epfl.ch/index.html)         
 - [Pylogit (Python)](https://github.com/timothyb0912/pylogit)
 - [Apollo (R)](http://www.apollochoicemodelling.com/)         
 
-***Specific Stata commands***
+***Specific Stata Estimation Commands***
 
 - Mixed Logit Models [(mixlogit)](https://journals.sagepub.com/doi/10.1177/1536867X0700700306)
 - Latent Class Models  [(lclogit](https://journals.sagepub.com/doi/pdf/10.1177/1536867X1301300312), [lclogit2)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484429)
 - Random Regret Minimization Models [(randregret)](https://github.com/alvarogutyerrez/randregret)
 
+***  Discrete Choice Experiments Design ***
 
+- [idefix (R)](https://www.jstatsoft.org/index.php/jss/article/view/v096i03/v96i03.pdf)
+- [dcreate (Stata)](https://www.statalist.org/forums/forum/general-stata-discussion/general/1308477-dcreate-a-new-module-for-creating-efficient-designs-for-discrete-choice-experiments)
 
 ### Interesting, right? 
 
