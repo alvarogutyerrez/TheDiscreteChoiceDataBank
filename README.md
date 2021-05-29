@@ -1,7 +1,7 @@
 # TheDiscreteChoiceDataBank
 
 
-Below you might find several discrete choice data sets from diverse fields. If you want to contribute to the list with your data or another publicly available one, please send me an email at alvaro.gutierrezvargas"at"kuleuven.be, and I will be more than happy to add it to the list.
+Below you might find several discrete choice data sets from diverse fields. If you want to contribute to the list with your data or another publicly available one, please send me an email at alvaro.gutierrezvargas [at] kuleuven [dot] be, and I will be more than happy to add it to the list :)
 
 
 
@@ -44,40 +44,41 @@ Below you might find several discrete choice data sets from diverse fields. If y
 | \-                                                                                                                                                             | 2020 | Experiment SmartTV data<br>   | \-                                                                                                                                                                                  | [Dataset](https://rdr.ucl.ac.uk/articles/dataset/Internet_of_Things_Discrete_Choice_Experiment_SmartTV_data/11568729)                                                                                                                                                                 |
 | \-                                                                                                                                                             | 2020 | Experiment Thermostats data   | \-                                                                                                                                                                                  | [Dataset](https://rdr.ucl.ac.uk/articles/dataset/Internet_of_Things_Discrete_Choice_Experiment_-_Thermostats_data/11568438)                                                                                                                                                           |
 | \-                                                                                                                                                             | 2020 | Experiment Security Camera    | \-                                                                                                                                                                                  | [Dataset](https://rdr.ucl.ac.uk/articles/dataset/Internet_of_Things_Discrete_Choice_Experiment_-_Security_Camera_data/11568492)                                                                                                                                                       |
+---
 
-
-
-### *Do you want more Discrete Choice Data?*
+**... more Discrete Choice Data**
 
 - [BIOGEME Data Bank](https://biogeme.epfl.ch/data.html)         
 - [William Greene's website ](http://people.stern.nyu.edu/wgreene/Microeconometrics-GCEP.htm)
 
-### Discrete Choice Software 
+---
 
-***General Estimation Software***
+### *Bonus: Discrete Choice Software 
+
+ **General Purposes Estimation Software**
 
 - [BIOGEME (Python)](https://biogeme.epfl.ch/index.html)         
 - [Pylogit (Python)](https://github.com/timothyb0912/pylogit)
 - [Apollo (R)](http://www.apollochoicemodelling.com/)         
 
-***Specific Stata Estimation Commands***
+**Specific Stata Estimation Commands**
 
 - Mixed Logit Models [(mixlogit)](https://journals.sagepub.com/doi/10.1177/1536867X0700700306)
 - Latent Class Models  [(lclogit](https://journals.sagepub.com/doi/pdf/10.1177/1536867X1301300312), [lclogit2)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3484429)
 - Random Regret Minimization Models [(randregret)](https://github.com/alvarogutyerrez/randregret)
 
-***  Discrete Choice Experiments Design ***
+**Software for Choice Experiments Design** 
 
-- [idefix (R)](https://www.jstatsoft.org/index.php/jss/article/view/v096i03/v96i03.pdf)
-- [dcreate (Stata)](https://www.statalist.org/forums/forum/general-stata-discussion/general/1308477-dcreate-a-new-module-for-creating-efficient-designs-for-discrete-choice-experiments)
+- [The idefix Package](https://www.jstatsoft.org/article/view/v096i03): Generating Optimal Designs for Discrete Choice Experiments in R. 
+- [DCREATE](https://www.statalist.org/forums/forum/general-stata-discussion/general/1308477-dcreate-a-new-module-for-creating-efficient-designs-for-discrete-choice-experiments): Stata module to create efficient designs for discrete choice experiments 
 
-### Interesting, right? 
+---
 
-Consider to [share it](https://twitter.com/alvarogutyerrez/status/1395795035791183874) with a friend :)!
+**Interesting, right?**: Consider to [share it](https://twitter.com/alvarogutyerrez/status/1395795035791183874) with a friend :)!
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Here&#39;s a collection of publicly available <a href="https://twitter.com/hashtag/DiscreteChoice?src=hash&amp;ref_src=twsrc%5Etfw">#DiscreteChoice</a> data (+ their articles) ready for you💻!<br><br>Please feel free to tag/share with your favorite Choice-Modeler(s) that might find this useful😊<a href="https://twitter.com/hashtag/EconTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#EconTwitter</a> <a href="https://twitter.com/hashtag/StatsTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#StatsTwitter</a> <a href="https://twitter.com/hashtag/MarketingTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#MarketingTwitter</a> <a href="https://twitter.com/hashtag/EpiTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#EpiTwitter</a> <a href="https://t.co/ZGWTGhSQMd">https://t.co/ZGWTGhSQMd</a></p>&mdash; Álvaro A. Gutiérrez-Vargas (@alvarogutyerrez) <a href="https://twitter.com/alvarogutyerrez/status/1395795035791183874?ref_src=twsrc%5Etfw">May 21, 2021</a></blockquote> 
 
-### Acknowledgment
+---
 
-I thank [José Ignacio Hernández](https://github.com/ighdez) from TU Delft, who encouraged me to upload the databank into a Github instead of the sloppy excel sheet that it was at the beginning. 
+**Acknowledgment**: I thank [José Ignacio Hernández](https://github.com/ighdez) from TU Delft, who encouraged me to upload the databank into a Github instead of the sloppy excel sheet that it was at the beginning. 
 
