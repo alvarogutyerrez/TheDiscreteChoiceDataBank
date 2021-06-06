@@ -1,0 +1,59 @@
+---
+title: "Convert to Arrow"
+author: "Pacha"
+date: "6/6/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I visited the links from README.md and here are the corresponding direct links to datasets:
+
+```{r}
+library(tibble)
+
+links <- tibble(
+  article = c(
+    "Are farmers willing to pay for climate related traits of wheat? Evidence from rural parts of Ethiopia",
+    "Constraints to adopting soil fertility management practices in Malawi: a choice experiment approach",
+    "Public Perceptions on COVID-19: The Spiral of Silence Logic among Facebook Users in Armenia"
+    ),
+  direct_link = c(
+    "https://data.mendeley.com/public-files/datasets/r288pwfzhj/files/f757f890-3b16-4fc2-ab64-8271f719457d/file_downloaded",
+    "https://data.mendeley.com/public-files/datasets/ch9ktjym8k/files/532f1ab7-1ea2-444c-af2d-f3b85a64948e/file_downloaded",
+    "https://data.mendeley.com/public-files/datasets/3426b5mt3t/files/910366ed-f4cf-41c6-8e00-7f4f0facbaaf/file_downloaded"
+    ),
+  dataset_name = c(
+    "wtp_wheat_trait_meket_agsys_2020.dta",
+    "data_for_SFM_paper.lpj",
+    "COVID SOS Survey results.sav"
+    )
+)
+
+for (i in seq_len(nrow(links))) {
+  url <- links$direct_link[i]
+  file <- links$dataset_name[i]
+  if (!file.exists(file)) try(download.file(url, file))
+}
+```
+
+Converting to arrow:
+
+```{r}
+library(rio)
+library(arrow)
+
+for (i in seq_len(nrow(links))) {
+  file <- links$dataset_name[i]
+  file2 <- gsub("\\..*", "", file)
+  if (!file.exists(file2)) {
+    d <- rio::import(file) %>% 
+      write_dataset(file2)
+  }
+}
+
+```
+
+
