@@ -10,6 +10,7 @@ Below you might find several discrete choice data sets from diverse fields. If y
 
 | Article Name | Year | Field     | Article| Dataset|
 | :----------------------------------------------------------------------------------------- | :----: | :--------------------------- | :--------------: | :-------------------: |
+| Consumers' preferences and willingness-to-pay for personalised nutrition<br>                                                      | 2021 | Nutrigenomics      | -                                | [Dataset](https://data.mendeley.com/datasets/kh2btj3btj/1)          
 | Are farmers willing to pay for climate related traits of wheat? Evidence from rural parts of Ethiopia<br>                                                      | 2020 | Agricultural economics        | [Article](https://www.sciencedirect.com/science/article/pii/S0308521X20308088)                                                                                                      | [Dataset](https://data.mendeley.com/datasets/r288pwfzhj/1)                                                                                                                                                                                                                            |
 | Constraints to adopting soil fertility management practices in Malawi: a choice experiment approach                                                            | 2020 | Agricultural economics        | [Article](https://www.sciencedirect.com/science/article/pii/S0305750X19302992?via%3Dihub)                                                                                           | [Dataset](https://data.mendeley.com/datasets/ch9ktjym8k/1)                                                                                                                                                                                                                            |
 | Consumer WTP for Sustainability Attributes in Beer                                                                                                             | 2020 | Consumer Attitude             | [Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204917)                                                                                                | [Dataset](https://data.mendeley.com/datasets/4z748jnnjs/2)                                                                                                                                                                                                                            |
@@ -71,6 +72,8 @@ Below you might find several discrete choice data sets from diverse fields. If y
 
 - [The idefix Package](https://www.jstatsoft.org/article/view/v096i03): Generating Optimal Designs for Discrete Choice Experiments in R. 
 - [DCREATE](https://www.statalist.org/forums/forum/general-stata-discussion/general/1308477-dcreate-a-new-module-for-creating-efficient-designs-for-discrete-choice-experiments): Stata module to create efficient designs for discrete choice experiments 
+
+- [DCEtool](https://github.com/danielpereztr/DCEtool): A Complete package for creating, surveying, and analysing Discrete Choice Experiments
 
 ---
 
