@@ -5,7 +5,6 @@ Below you might find several discrete choice data sets from diverse fields. If y
 
 
 
-
 ### *DataBank*
 
 | Article Name | Year | Field     | Article| Dataset|
